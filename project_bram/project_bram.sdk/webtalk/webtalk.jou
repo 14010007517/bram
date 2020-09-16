@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.3_AR72075 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:36:41 MST 2018
+# 
+# Start of session at: Sat Sep 12 22:20:56 2020
+# Process ID: 19482
+# Current directory: /work/mpsoc/zcu102/bram_pl/project_bram/project_bram.sdk/webtalk
+# Command line: wbtcv -mode batch -source sdk_webtalk.tcl
+# Log file: /work/mpsoc/zcu102/bram_pl/project_bram/project_bram.sdk/webtalk/webtalk.log
+# Journal file: /work/mpsoc/zcu102/bram_pl/project_bram/project_bram.sdk/webtalk/webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

@@ -1,0 +1,35 @@
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2018.3_AR72075 (lin64) Build 2405991 Thu Dec  6 23:36:41 MST 2018
+| Date         : Sun Sep 13 13:37:20 2020
+| Host         : test16 running 64-bit Ubuntu 16.04.6 LTS
+| Command      : report_drc -file Base_Zynq_MPSoC_wrapper_drc_opted.rpt -pb Base_Zynq_MPSoC_wrapper_drc_opted.pb -rpx Base_Zynq_MPSoC_wrapper_drc_opted.rpx
+| Design       : Base_Zynq_MPSoC_wrapper
+| Device       : xczu9eg-ffvb1156-2-e
+| Speed File   : -2
+| Design State : Synthesized
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Report DRC
+
+Table of Contents
+-----------------
+1. REPORT SUMMARY
+2. REPORT DETAILS
+
+1. REPORT SUMMARY
+-----------------
+            Netlist: netlist
+          Floorplan: design_1
+      Design limits: <entire design considered>
+           Ruledeck: default
+             Max violations: <unlimited>
+             Violations found: 0
++------+----------+-------------+------------+
+| Rule | Severity | Description | Violations |
++------+----------+-------------+------------+
++------+----------+-------------+------------+
+
+2. REPORT DETAILS
+-----------------
+

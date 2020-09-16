@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.tcf.debug.LaunchConfigurationType">
+<booleanAttribute key="org.eclipse.tcf.debug.AttachChildren" value="true"/>
+<intAttribute key="org.eclipse.tcf.debug.BuildBeforeLaunch" value="0"/>
+<booleanAttribute key="org.eclipse.tcf.debug.DisconnectOnCtxExit" value="true"/>
+<stringAttribute key="org.eclipse.tcf.debug.LocalProgramFile" value="/work/mpsoc/zcu102/bram_pl/project_bram/project_bram.sdk/linuxhello/Debug/linuxhello.elf"/>
+<stringAttribute key="org.eclipse.tcf.debug.ProgramFile" value=""/>
+<stringAttribute key="org.eclipse.tcf.debug.ProjectName" value="linuxhello"/>
+<booleanAttribute key="org.eclipse.tcf.debug.RunLocalAgent" value="false"/>
+<booleanAttribute key="org.eclipse.tcf.debug.RunLocalServer" value="false"/>
+<booleanAttribute key="org.eclipse.tcf.debug.StopAtEntry" value="true"/>
+<booleanAttribute key="org.eclipse.tcf.debug.StopAtMain" value="true"/>
+<booleanAttribute key="org.eclipse.tcf.debug.UseLocalAgent" value="true"/>
+<booleanAttribute key="org.eclipse.tcf.debug.UseTerminal" value="true"/>
+</launchConfiguration>
